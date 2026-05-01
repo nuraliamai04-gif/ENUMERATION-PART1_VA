@@ -1,6 +1,6 @@
 # ENUMERATION-PART1_VA
 
-# IKB21403 Vulnerability Analysis — Chapter 5: Enumeration
+# IKB21403 VA — Chapter 5: Enumeration
 
 ## 10-Challenge Checklist:
 - Challenge 2: Fast Nmap Scan 
